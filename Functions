@@ -1,0 +1,3 @@
+Pid = spawn(Module, FunctionName, ArgumentList)
+	
+	-> The call to spawn/3 returns immediately when the new process has been created and does not wait for the given function to evaluate.
